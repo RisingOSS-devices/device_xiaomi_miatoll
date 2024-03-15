@@ -23,4 +23,10 @@
     "branch"      : "lineage-21",
     "target_path" : "hardware/xiaomi"
   }
+  {
+    "remote"      : "github",
+    "repository"  : "ihsanulrahman/hardware_dolby",
+    "branch"      : "14",
+    "target_path" : "hardware/dolby"
+  }
 ]
