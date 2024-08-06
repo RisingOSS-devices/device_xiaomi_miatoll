@@ -1,0 +1,26 @@
+[
+  {
+    "remote"      : "github",
+    "repository"  : "RisingOSS-devices/vendor_xiaomi_miatoll",
+    "branch"      : "udc",
+    "target_path" : "vendor/xiaomi/miatoll"
+  },
+  {
+    "remote"      : "github",
+    "repository"  : "SwapnilVicky/namaste_xiaomi_miatoll",
+    "branch"      : "lineage-21.0",
+    "target_path" : "kernel/xiaomi/miatoll"
+  },
+  {
+    "remote"      : "github",
+    "repository"  : "RisingOSS-devices/vendor_xiaomi_miuicamera_miatoll",
+    "branch"      : "main",
+    "target_path" : "vendor/xiaomi/miuicamera"
+  },
+  {
+    "remote"      : "github",
+    "repository"  : "LineageOS/android_hardware_xiaomi",
+    "branch"      : "lineage-21",
+    "target_path" : "hardware/xiaomi"
+  }
+]
