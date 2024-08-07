@@ -22,7 +22,7 @@
     "repository"  : "LineageOS/android_hardware_xiaomi",
     "branch"      : "lineage-21",
     "target_path" : "hardware/xiaomi"
-  }
+  },
   {
     "remote"      : "github",
     "repository"  : "ihsanulrahman/hardware_dolby",
