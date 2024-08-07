@@ -9,7 +9,7 @@
     "remote"      : "github",
     "repository"  : "SwapnilVicky/namaste_xiaomi_miatoll",
     "branch"      : "lineage-21.0",
-    "target_path" : "kernel/xiaomi/miatoll"
+    "target_path" : "kernel/xiaomi/sm6250"
   },
   {
     "remote"      : "github",
